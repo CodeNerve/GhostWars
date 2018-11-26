@@ -1,5 +1,5 @@
 
-// do something to end server and game after some fixed time and declare the winner color
+// do something to end server and game after some fixed score, most probably less than 1000 and declare the winner color
 
 
 var express = require('express');
