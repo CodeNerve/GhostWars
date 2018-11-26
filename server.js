@@ -1,3 +1,7 @@
+
+// do something to end server and game after some fixed time and declare the winner color
+
+
 var express = require('express');
 var app = express();
 var server = require('http').Server(app);
