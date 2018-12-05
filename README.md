@@ -1,5 +1,9 @@
 # Ghost Wars
 
+**Current Version Online: V-1.0**
+
+**Version Under Work: V-1.1**
+
 Ghost-Wars, the cutest Halloween game you can play with your fellow ghosts to the end of your un-dead life! 
 
 This is a server based game you can play with your friends or people around the world and race them all to win!
