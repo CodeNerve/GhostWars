@@ -4,6 +4,8 @@
 
 **Version Under Work: V-1.1**
 
+***
+
 Idea for this game struck me while playing Google's Halloween doodle, which was a very addicitive and fun, multiplayer ghost game, but I started to work on this during my Bachelor's course Web and Database Technology, because... well, no real reason!
 
 ***
