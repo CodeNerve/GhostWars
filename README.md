@@ -4,6 +4,10 @@
 
 **Version Under Work: V-1.1**
 
+Idea for this game struck me while playing Google's Halloween doodle, which was a very addicitive and fun, multiplayer ghost game, but I started to work on this during my Bachelor's course Web and Database Technology, because... well, no real reason!
+
+***
+
 Ghost-Wars, the cutest Halloween game you can play with your fellow ghosts to the end of your un-dead life! 
 
 This is a server based game you can play with your friends or people around the world and race them all to win!
