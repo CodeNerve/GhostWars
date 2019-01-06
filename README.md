@@ -12,8 +12,7 @@ This is a server based game you can play with your friends or people around the 
 
 Sneak Peek for the game:
 
-![Ghost Wars](https://user-images.githubusercontent.com/41565823/48995952-6f2e9d80-f14a-11e8-8cfe-9b287eccba25.png)
-
+![Ghost Wars](https://user-images.githubusercontent.com/45059787/50740511-7fd83600-1215-11e9-889d-9fda90e974ed.png)
 
 # [Play the live game here](https://ghost-wars.herokuapp.com)
 
