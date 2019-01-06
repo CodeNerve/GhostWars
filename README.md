@@ -1,12 +1,8 @@
 # Ghost Wars
 
-**Current Version Online: V-1.0**
-
-**Version Under Work: V-1.1**
-
 ***
 
-Idea for this game struck me while playing Google's Halloween doodle, which was a very addicitive and fun, multiplayer ghost game, but I started to work on this only during my Bachelor's course Web and Database Technology, because... well, no real reason!
+Idea for this game struck us while playing Google's Halloween doodle, which is very addicitive and fun, multiplayer ghost game, And being us, we thought of making something of our own.
 
 ***
 
@@ -20,3 +16,18 @@ Sneak Peek for the game:
 
 
 # [Play the live game here](https://ghost-wars.herokuapp.com)
+
+
+**We highly encourage you to contribute to this game in any manner**
+
+**Contact the developers at:**
+
+**Contact the Contributors at:**
+   > Pradyuman Dixit (Pradyuman7)
+   - [More Info](https://Pradyuman7.github.io)
+   - P.Dixit@Student.tudelft.nl
+
+   > Richi Dubey (richidubey)    
+   - [More Info](https://365arts.me)
+   - f20170099@goa.bits-pilani.ac.in
+   

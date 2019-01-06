@@ -73,7 +73,7 @@ var config = {
     this.cursors = this.input.keyboard.createCursorKeys();
 
     this.blueScoreText = this.add.text(16, 16, '', { fontSize: '32px', fill: '#0000FF' });
-    this.redScoreText = this.add.text(584, 16, '', { fontSize: '32px', fill: '#FF0000' });
+    this.redScoreText = this.add.text(1245, 16, '', { fontSize: '32px', fill: '#FF0000' });
   
     this.socket.on('scoreUpdate', function (scores) {
         self.blueScoreText.setText('Blue: ' + scores.blue);

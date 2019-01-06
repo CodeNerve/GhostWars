@@ -12,8 +12,8 @@ var players = {};
 nplayer=0;
 
 var star = {
-    x: Math.floor(Math.random() * 700) + 50,
-    y: Math.floor(Math.random() * 500) + 50
+    x: Math.floor(Math.random() * 1380) +20,
+    y: Math.floor(Math.random() * 780) +20
   };
 
 var scores = {
@@ -79,8 +79,18 @@ io.on('connection', function (socket) {
         } else {
           scores.blue += 10;
         }
-        star.x = Math.floor(Math.random() * 700) + 50;
-        star.y = Math.floor(Math.random() * 500) + 50;
+        star.x = Math.floor(Math.random() * 1410);
+        star.y = Math.floor(Math.random() * 810) ;
+
+        //star.x = 16 ;
+        //star.y = 16 ;
+
+        while(star.y<=16&&(star.x<=25||star.x>=1240)) 		// Here out score text is currently printed at these locations, x between 0-25 or x between 1240-1280 and y between 0-16
+    	{
+    		star.x = Math.floor(Math.random() * 1410);		// So keep changing star's location until it stops coming in text's location
+        	star.y = Math.floor(Math.random() * 810) ;
+    	}
+
         io.emit('starLocation', star);
         io.emit('scoreUpdate', scores);
     });
