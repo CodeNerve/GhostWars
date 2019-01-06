@@ -17,11 +17,11 @@ Sneak Peek for the game:
 # [Play the live game here](https://ghost-wars.herokuapp.com)
 
 
-**We highly encourage you to contribute to this game in any manner**
+**We highly encourage you to contribute to this game in any way you can**
 
-**Contact the developers at:**
 
-**Contact the Contributors at:**
+
+**Contact the Developers at:**
    > Pradyuman Dixit (Pradyuman7)
    - [More Info](https://Pradyuman7.github.io)
    - P.Dixit@Student.tudelft.nl
