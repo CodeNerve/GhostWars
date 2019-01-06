@@ -9,6 +9,8 @@ var io = require('socket.io').listen(server);
 
 var players = {};
 
+nplayer=0;
+
 var star = {
     x: Math.floor(Math.random() * 700) + 50,
     y: Math.floor(Math.random() * 500) + 50
@@ -26,6 +28,7 @@ app.get('/', function (req, res) {
 });
 
 io.on('connection', function (socket) {
+	nplayer++;
     console.log('a user connected');
 
     // create a new player and add it to our players object
@@ -34,7 +37,7 @@ io.on('connection', function (socket) {
         x: Math.floor(Math.random() * 700) + 50,
         y: Math.floor(Math.random() * 500) + 50,
         playerId: socket.id,
-        team: (Math.floor(Math.random() * 2) == 0) ? 'red' : 'blue'
+        team: (nplayer == 1) ? 'red' : 'blue'
     };
     // send the players object to the new player
     socket.emit('currentPlayers', players);
@@ -51,6 +54,7 @@ io.on('connection', function (socket) {
 
     socket.on('disconnect', function () {
       console.log('user disconnected');
+      nplayer--;	
     
       // remove this player from our players object
         delete players[socket.id];
