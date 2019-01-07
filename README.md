@@ -2,7 +2,7 @@
 
 ***
 
-Idea for this game struck us while playing Google's Halloween doodle, which is very addicitive and fun, multiplayer ghost game, And being us, we thought of making something of our own.
+Idea for this game struck us while playing Google's Halloween doodle, which is very addicitive and fun, multiplayer ghost game, and our curiosity, creativity, team-work and coding has got this game to this point. 
 
 ***
 
@@ -14,7 +14,7 @@ Sneak Peek for the game:
 
 ![Ghost Wars](https://user-images.githubusercontent.com/45059787/50740511-7fd83600-1215-11e9-889d-9fda90e974ed.png)
 
-# [Play the live game here](https://ghost-wars.herokuapp.com)
+## [Play the live game here](https://ghost-wars.herokuapp.com)
 
 
 **We highly encourage you to contribute to this game in any way you can**
