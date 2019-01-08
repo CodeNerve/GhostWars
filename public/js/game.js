@@ -25,7 +25,7 @@ var config = {
     this.load.image('ship', 'assets/spaceShips_001.png');
     this.load.image('otherPlayer', 'assets/enemyBlack5.png');
     this.load.image('back','assets/back.jpg');
-    this.load.image('star','assets/star_gold1.png');
+    this.load.image('star','assets/star_gold2.png');
     
   }
    
