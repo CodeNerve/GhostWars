@@ -1,5 +1,7 @@
 # Ghost Wars
 
+![ghost-icon](https://user-images.githubusercontent.com/41565823/51026046-f1a1de00-158d-11e9-9f07-30de3630b50a.gif)
+
 ***
 
 Idea for this game struck us while playing Google's Halloween doodle, which is very addicitive and fun, multiplayer ghost game, and our curiosity, creativity, team-work and coding has got this game to this point. 
