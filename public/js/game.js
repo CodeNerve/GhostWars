@@ -25,7 +25,11 @@ var config = {
     this.load.image('ship', 'assets/spaceShips_001.png');
     this.load.image('otherPlayer', 'assets/enemyBlack5.png');
     this.load.image('back','assets/back.jpg');
+<<<<<<< HEAD
+    this.load.image('star','assets/star_gold6.png');
+=======
     this.load.image('star','assets/star_gold3.png');
+>>>>>>> 0b96e7a5a9a620b04f72b6e56a25ee9896e3c66f
     
   }
    
@@ -109,7 +113,7 @@ var config = {
 
     this.socket.on('starLocation', function (starLocation) {
         if (self.star) self.star.destroy();
-        self.star = self.physics.add.image(starLocation.x, starLocation.y, 'star').setDisplaySize(30, 30);;
+        self.star = self.physics.add.image(starLocation.x, starLocation.y, 'star').setDisplaySize(50, 50);;
         self.physics.add.overlap(self.ship, self.star, function () {
           this.socket.emit('starCollected');
         }, null, self);
