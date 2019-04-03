@@ -1,7 +1,13 @@
 # Ghost Wars
 
-![ghost-icon](https://user-images.githubusercontent.com/41565823/51026046-f1a1de00-158d-11e9-9f07-30de3630b50a.gif)
-Ghost-Wars, the cutest Halloween game you can play with your fellow ghosts to the end of your un-dead life! 
+ 
+<p align="center">
+  <img width="250" height="250" src="https://user-images.githubusercontent.com/41565823/51026046-f1a1de00-158d-11e9-9f07-30de3630b50a.gif>
+</p>
+
+<p align="center">
+  The cutest Halloween :ghost: game you can play with your fellow ghosts to the end of your un-dead life!.
+</p>
 
 ## Sneak Peek for the game:
 
