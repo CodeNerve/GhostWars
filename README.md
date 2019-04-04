@@ -9,7 +9,7 @@
   The cutest Halloween :ghost: game you can play with your fellow ghosts to the end of your un-dead life!.
 </p>
 
-## Sneak Peek for the game:
+## Sneak Peek for the game
 
 ![Ghost Wars](https://user-images.githubusercontent.com/45059787/50740511-7fd83600-1215-11e9-889d-9fda90e974ed.png)
 
