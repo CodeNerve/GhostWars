@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  The cutest :ghost: game you can play with your fellow ghosts to the end of your un-dead life!.
+  The cutest Halloween game you can play with your fellow :ghost: to the end of your un-dead life!.
 </p>
 
 ## Sneak Peek for the game
