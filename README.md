@@ -23,10 +23,10 @@ Idea for this game struck us while playing Google's Halloween doodle, which is a
 ## Contact the Developers
    > Pradyuman Dixit (Pradyuman7)
    - [More Info](https://Pradyuman7.github.io)
-   - P.Dixit@Student.tudelft.nl
+   - Send me a mail at: P.Dixit@Student.tudelft.nl
 
    > Richi Dubey (richidubey)    
    - [More Info](https://365arts.me)
-   - f20170099@goa.bits-pilani.ac.in
+   - Send me a mail at: f20170099@goa.bits-pilani.ac.in
    
 **We highly encourage you to contribute to this game in any way you can**
