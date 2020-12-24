@@ -17,7 +17,7 @@
 
 
 ## Inspiration
-Idea for this game struck us while playing Google's Halloween doodle, which is a very addicitive and fun, multiplayer ghost game, and our curiosity, creativity, team-work and coding has got this game to this point. 
+Idea for this game struck us while playing Google's Halloween doodle, which is a very addicitive and fun multiplayer ghost game, and so we built ours at least till this point. 
 
 
 ## Contact the Developers
